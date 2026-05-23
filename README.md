@@ -29,5 +29,4 @@ Merhaba Ben AUREVON 😉, Meraklı bir öğrenciyim  👨💻 Python Dilini sevi
 - 🌱 Şu anda ___IDK___ öğreniyorum.
 - 🤔 Araştırma ilgi alanlarım elektronik, yazılım kodları !!
 
-- ⭐️ Gönderen [AUREVON](https://github.com/aurevondev)
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matesa&theme=algolia&show_icons=true" alt="aurevondev"/></p>
+- ⭐️ Gönderen [AUREVON DEV](https://github.com/aurevondev)
